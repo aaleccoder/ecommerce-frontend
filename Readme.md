@@ -1,51 +1,53 @@
-# Ecommerce frontend
+# Ecommerce Frontend
 
-Modern e-commerce frontend built with React, TypeScript, and Tailwind CSS.
+Frontend moderno de comercio electrónico construido con React, TypeScript y Tailwind CSS.
 
-## Prerequisites
+## Tutoriales
+- [Curso de React](https://youtu.be/yIr_1CasXkM?si=X7su6HFynOvPSwRg)
+- [TailwindCSS](https://youtu.be/h5HQVHTpeHs?si=hEHUcH0dBPGsZDbA)
 
-- Node.js (version 18 or higher)
-- npm or pnpm
+## Requisitos Previos
 
-## Getting Started
+- Node.js (versión 18 o superior)
+- npm o pnpm
 
-1. Clone the repository:
+## Guía de Inicio
+
+1. Clona el repositorio:
 ```bash
 git clone https://github.com/aaleccoder/ecommerce.git
 cd ecommerce
 ```
 
-2. Install dependencies:
+2. Instala las dependencias:
 ```bash
 npm install
-# or
+# o
 pnpm install
 ```
 
-3. Start the development server:
+3. Inicia el servidor de desarrollo:
 ```bash
 npm run dev
-# or
+# o
 pnpm dev
 ```
 
-The application will be available at `http://localhost:5173`
+La aplicación estará disponible en `http://localhost:5173`
 
-## Available Scripts
+## Scripts Disponibles
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
+- `npm run dev` - Inicia el servidor de desarrollo
+- `npm run build` - Construye para producción
+- `npm run preview` - Previsualiza la construcción de producción
+- `npm run lint` - Ejecuta ESLint
 
-## Tech Stack
+## Stack Tecnológico
 
 - React 19
 - TypeScript
 - Vite
 - Tailwind CSS
-- Radix UI Components
+- Componentes Radix UI
 - React Router DOM
 - Recharts
-
-
